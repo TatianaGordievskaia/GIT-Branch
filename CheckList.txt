@@ -1,0 +1,6 @@
+Checklist structure:
+List of checks (with the required level of detail);
+Verification environment: assembly on which testing was carried out;
+Test environment (if applicable);
+Information about the tester;
+Result of checking.
